@@ -15,7 +15,7 @@ const Hero = () => {
           <button className="border border-white text-white px-8 py-3 rounded-lg text-lg font-semibold hover:bg-white hover:text-green-600 transition duration-300 transform hover:scale-105 animate-bounce delay-100">Learn More</button>
         </div>
         <div className="mt-8">
-          <img src="/public/images/white-tshirt-background.png" alt="Hero Illustration" className="mx-auto w-1/2 md:w-1/3 animate-fade-in delay-400" />
+          <img src="/images/white-tshirt-background.png" alt="Hero Illustration" className="mx-auto w-1/2 md:w-1/3 animate-fade-in delay-400" />
         </div>
         <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2">
           <a href="#features" className="text-white text-lg underline animate-fade-in delay-600">Scroll Down to Discover More</a>
