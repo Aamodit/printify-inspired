@@ -5,17 +5,17 @@ const steps = [
   {
     title: "Create",
     description: "Custom products: Easily add your designs to a wide range of products using our free tools.",
-    image: "/public/images/hiw-image1.webp",
+    image: "/images/hiw-image1.webp",
   },
   {
     title: "Sell",
     description: "On your terms: You choose the products, sale price, and where to sell.",
-    image: "/public/images/hiw-image2.webp",
+    image: "/images/hiw-image2.webp",
   },
   {
     title: "We Handle",
     description: "Fulfillment: Once an order is placed, we automatically handle all the printing and delivery logistics.",
-    image: "/public/images/hiw-image3.webp",
+    image: "/images/hiw-image3.webp",
   },
 ];
 

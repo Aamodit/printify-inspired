@@ -1,9 +1,9 @@
 import React from 'react';
 
 const products = [
-  { id: 1, name: "T-Shirt", image: "/public/images/tshirt-design1.png", price: "$20" },
-  { id: 2, name: "Mug", image: "/public/images/tshirt-design2.png", price: "$15" },
-  { id: 3, name: "Sticker", image: "/public/images/tshirt-design3.png", price: "$5" },
+  { id: 1, name: "T-Shirt", image: "/images/tshirt-design1.png", price: "$20" },
+  { id: 2, name: "Mug", image: "/images/tshirt-design2.png", price: "$15" },
+  { id: 3, name: "Sticker", image: "/images/tshirt-design3.png", price: "$5" },
 ];
 
 const ProductShowcase = () => {

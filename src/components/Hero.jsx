@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <section
       className="relative flex items-center justify-center h-screen bg-cover bg-center pt-32 transition-transform duration-700"
-      style={{ backgroundImage: "url('/public/images/hero-bg.jpg')" }}
+      style={{ backgroundImage: "url('/images/hero-bg.jpg')" }}
     >
       <div className="absolute inset-0 bg-gradient-to-b from-gray-900 to-transparent"></div>
       <div className="container mx-auto text-center relative z-10 p-6 md:p-12">

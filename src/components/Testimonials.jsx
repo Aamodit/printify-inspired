@@ -5,12 +5,12 @@ const testimonials = [
   {
     name: "Jane Doe",
     feedback: "This platform made it easy to create and sell my designs. Highly recommend!",
-    image: "/public/images/testm-img.jpg",
+    image: "/images/testm-img.jpg",
   },
   {
     name: "John Smith",
     feedback: "Great service and quick shipping! My customers love the products.",
-    image: "/public/images/testm-img.jpg",
+    image: "/images/testm-img.jpg",
   },
 ];
 
